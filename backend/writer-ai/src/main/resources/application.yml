@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: writer-ai
+
+api:
+  gemini:
+    url: ${GEMINI_URL}
+    key: ${GEMINI_KEY}
